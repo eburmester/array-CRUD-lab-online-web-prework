@@ -1,17 +1,17 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  hogwarts = ["Harry", "Hermione", "Ron", "Draco"]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  hogwarts << "Dumbledore"
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  howarts.
 end
 
 def remove_element_from_end_of_array(array)
